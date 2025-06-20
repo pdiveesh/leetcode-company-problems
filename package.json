@@ -41,7 +41,7 @@
     "typescript": "^5.8.3",
     "vite": "^4.5.14"
   },
-  "homepage": "https://YOUR_USERNAME.github.io/leetcode-company-problems",
+  "homepage": "https://pdiveesh.github.io/leetcode-company-problems",
   "main": "postcss.config.js",
   "author": "",
   "license": "ISC"
