@@ -20,11 +20,7 @@ interface ProcessedProblem {
   companies: string[];
 }
 
-interface CompanyStats {
-  name: string;
-  count: number;
-  color: string;
-}
+
 
 const CompanyProblemsMerger: React.FC = () => {
   const [mergedData, setMergedData] = useState<TopicGroup[]>([]);
